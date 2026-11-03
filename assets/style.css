@@ -92,6 +92,7 @@ button, a, input, select, textarea { touch-action: manipulation; }
 .button.primary { background: var(--teal); color: #fff; }
 .button.primary:hover { background: var(--teal-dark); }
 .button.secondary { color: var(--teal-dark); background: var(--teal-soft); }
+.button.success { color: #0b6a4d; background: #e4f9ee; }
 .button.outline { background: white; border-color: var(--line); color: var(--ink); }
 .button.full { width: 100%; min-height: 45px; }
 .table-wrap { width: 100%; overflow-x: auto; overscroll-behavior-x: contain; -webkit-overflow-scrolling: touch; }
